@@ -1,7 +1,7 @@
 # portofolio-website-vectus
 this is a portofolio for vectus team
 
-link web https://3f7dbc29.portofolio-vectus.pages.dev/
+link web [https://3f7dbc29.portofolio-vectus.pages.dev/](https://portofolio-vectus.pages.dev/)
 
 Isi dari profile NRR
 Profil perusahaan (company profile) adalah dokumen atau halaman yang menjelaskan identitas, aktivitas, dan kekuatan sebuah perusahaan. Isinya bisa disesuaikan dengan tujuan (marketing, investor, partnership), tapi secara umum mencakup bagian-bagian berikut:
